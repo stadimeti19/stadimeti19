@@ -11,5 +11,5 @@
 - 💡 I care about shipping products that create **real impact at scale**.
 
 ### Contact
-- 💼 LinkedIn: [sashank-tadimeti](https://www.linkedin.com/in/sashank-tadimeti/)
+- 💼 LinkedIn: **[sashank-tadimeti](https://www.linkedin.com/in/sashank-tadimeti/)**
 - 📫 Email: **sashank.tadimeti@gmail.com**
