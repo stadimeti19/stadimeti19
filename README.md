@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sashank 👋</h1>
 <p align="center">
-  BS/MS Computer Science @ Georgia Tech • 2x SWE Intern @ Fidelity • AI/ML Systems • Building impactful things
+  BS/MS Computer Science @ Georgia Tech • Prev 2x SWE Intern @ Fidelity • AI/ML Systems • Building impactful things
 </p>
 
 ---
