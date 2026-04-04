@@ -8,7 +8,7 @@
 ### About me
 - I build **production-ready GenAI + retrieval systems**, **agentic AI workflows**, and **scalable data/ML infra**.
 - B.S./M.S. in Computer Science, Specializations: **AI** & **Machine Learning**.
-- I care about shipping products that create **real impact at scale**.
+- I am passionate about shipping products that create **real impact at scale**!
 
 ### Contact
 - LinkedIn: **[sashank-tadimeti](https://www.linkedin.com/in/sashank-tadimeti/)**
