@@ -7,7 +7,7 @@
 
 ### About me
 - I build **production-ready GenAI + retrieval systems**, **agentic AI workflows**, and **scalable data/ML infra**.
-- BS/MS in CS, Specializations: **AI** & **Information Internetworks**.
+- BS/MS in CS, Specializations: **AI** & **Machine Learning**.
 - I care about shipping products that create **real impact at scale**.
 
 ### Contact
